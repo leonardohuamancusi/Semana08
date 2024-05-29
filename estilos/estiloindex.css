@@ -1,0 +1,13 @@
+*{
+color: white;
+font-size: 30px;
+font-family:fantasy;
+font-style: italic;
+}
+body{
+background-color: black;
+}
+h1{
+text-align: center;
+text-decoration: underline;
+}
